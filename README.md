@@ -18,7 +18,7 @@ Here we see two ASN numbers related to STC, we can try both but we will go with 
 
 ----------------------------------------------------------------------------------------------
 
-# AN25019
+# AS25019
 
 To look into the ASN we will be using Shodan IO
 
